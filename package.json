@@ -1,0 +1,14 @@
+{
+  "name": "psd-api-to-chart",
+  "version": "1.0.0",
+  "description": "little project to convert from api to html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Paablito",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
